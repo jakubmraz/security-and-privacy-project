@@ -15,9 +15,9 @@ def apply_k_anonymity(df, key_columns, k):
     for index, row in group_counts.iterrows():
         if row['count'] < k:
             # Modify attributes to achieve k-anonymity
-            # Create a condition based on the values in the row
             condition = (modified_df[key_columns] == row[key_columns].values).all(axis=1)
-            modified_df.loc[condition, 'dob'] = None
+            # Generalize the dob to a category or a specific year if needed
+            modified_df.loc[condition, 'dob'] = modified_df.loc[condition, 'dob'].apply(lambda x: x.year if pd.notnull(x) else None)
 
     return modified_df
 
@@ -34,7 +34,3 @@ anonymized_data = apply_k_anonymity(data, key_columns, k)
 
 # Save the anonymized data to a new Excel file
 anonymized_data.to_excel('even_more_and_more_private_data.xlsx', index=False)
-
-# Assume the code does its job
-
-
