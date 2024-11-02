@@ -35,7 +35,7 @@ if not pd.api.types.is_datetime64_any_dtype(df['dob']):
 
 # Track changes for 'dob'
 original_dob = df['dob'].copy()
-df['dob'] = df['dob'].apply(lambda x: int(x.year) - int(x.year) % 3 if pd.notnull(x) else x)
+df['dob'] = df['dob'].apply(lambda x: int(x.year) - int(x.year) % 5 if pd.notnull(x) else x)
 dob_changes_rounding = (original_dob != df['dob']).sum()
 
 # Cap all ages above 75 to the year corresponding to 75 (e.g., birth year <= 1949)
