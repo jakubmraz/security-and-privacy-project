@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the data from the Excel file
-data = pd.read_excel("D:\\Documents\\Documents\\Uni\\Security_Privacy\\final_project\\security-and-privacy-project\\even_more_and_more_private_data.xlsx")
+data = pd.read_excel("differentially_private_dataD.xlsx")
 
 # Specify the key variables (quasi-identifiers) and sensitive variables
 key_vars = ['dob', 'education', 'citizenship', 'zip', 'marital_status', 'sex']
