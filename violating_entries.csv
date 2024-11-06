@@ -1,0 +1,66 @@
+sex,dob,education,marital_status,party,count
+Female,1949,Graduate and Post-graduate,Ever married,Red,2
+Female,1949,Undergraduate,Ever married,Green,1
+Female,1949,Vocational bachelors educations,Ever married,Red,1
+Female,1950,Graduate and Post-graduate,Ever married,Red,1
+Female,1950,Non-university,Ever married,Invalid vote,1
+Female,1950,Vocational bachelors educations,Ever married,Red,2
+Female,1960,Graduate and Post-graduate,Ever married,Red,2
+Female,1960,Non-university,Ever married,Invalid vote,1
+Female,1960,Non-university,Never married,Green,1
+Female,1960,Non-university,Never married,Red,1
+Female,1960,Undergraduate,Ever married,Green,1
+Female,1960,Vocational bachelors educations,Ever married,Green,2
+Female,1970,Graduate and Post-graduate,Ever married,Green,1
+Female,1970,Graduate and Post-graduate,Ever married,Red,1
+Female,1970,Graduate and Post-graduate,Never married,Red,2
+Female,1970,Non-university,Never married,Red,1
+Female,1970,Undergraduate,Ever married,Red,2
+Female,1970,Undergraduate,Never married,Red,1
+Female,1980,Graduate and Post-graduate,Ever married,Green,2
+Female,1980,Graduate and Post-graduate,Ever married,Red,1
+Female,1980,Graduate and Post-graduate,Never married,Red,2
+Female,1980,Non-university,Never married,Red,1
+Female,1980,Undergraduate,Ever married,Green,1
+Female,1980,Undergraduate,Never married,Red,1
+Female,1980,Vocational bachelors educations,Ever married,Green,1
+Female,1980,Vocational bachelors educations,Never married,Red,1
+Female,1990,Graduate and Post-graduate,Never married,Green,1
+Female,1990,Non-university,Ever married,Green,2
+Female,1990,Undergraduate,Ever married,Green,1
+Female,1990,Vocational bachelors educations,Never married,Red,1
+Female,2000,Non-university,Ever married,Green,1
+Female,2000,Undergraduate,Never married,Green,1
+Male,1949,Non-university,Ever married,Red,1
+Male,1949,Non-university,Never married,Green,2
+Male,1949,Undergraduate,Ever married,Red,1
+Male,1949,Vocational bachelors educations,Ever married,Green,1
+Male,1949,Vocational bachelors educations,Ever married,Red,2
+Male,1950,Graduate and Post-graduate,Ever married,Green,1
+Male,1950,Graduate and Post-graduate,Ever married,Red,1
+Male,1960,Non-university,Ever married,Red,2
+Male,1960,Non-university,Never married,Red,1
+Male,1970,Graduate and Post-graduate,Ever married,Green,1
+Male,1970,Non-university,Ever married,Red,2
+Male,1970,Undergraduate,Ever married,Green,1
+Male,1970,Undergraduate,Never married,Green,1
+Male,1970,Vocational bachelors educations,Never married,Red,1
+Male,1980,Graduate and Post-graduate,Ever married,Invalid vote,1
+Male,1980,Graduate and Post-graduate,Ever married,Red,1
+Male,1980,Graduate and Post-graduate,Never married,Green,1
+Male,1980,Graduate and Post-graduate,Never married,Red,1
+Male,1980,Non-university,Ever married,Green,1
+Male,1980,Non-university,Never married,Green,2
+Male,1980,Vocational bachelors educations,Ever married,Green,1
+Male,1980,Vocational bachelors educations,Ever married,Invalid vote,1
+Male,1980,Vocational bachelors educations,Ever married,Red,2
+Male,1980,Vocational bachelors educations,Never married,Green,1
+Male,1980,Vocational bachelors educations,Never married,Red,1
+Male,1990,Graduate and Post-graduate,Ever married,Green,1
+Male,1990,Non-university,Ever married,Green,1
+Male,1990,Non-university,Never married,Green,2
+Male,1990,Undergraduate,Ever married,Green,1
+Male,1990,Undergraduate,Never married,Green,1
+Male,1990,Vocational bachelors educations,Ever married,Green,2
+Male,1990,Vocational bachelors educations,Ever married,Red,1
+Male,1990,Vocational bachelors educations,Never married,Green,1

@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-PATH = r"private_dataD.xlsx"
+PATH = r"data/old/private_dataD.xlsx"
 
 # Load the Excel sheet into a DataFrame
 df = pd.read_excel(PATH, sheet_name='Sheet 1')
@@ -37,8 +37,8 @@ vote_counts_by_citizenship = df_filtered.groupby('citizenship')['party'].value_c
 vote_counts_by_citizenship = vote_counts_by_citizenship.sort_values(by='Green', ascending=False)
 
 # Marital status
-vote_counts_by_marital = df_filtered.groupby('marital_status')['party'].value_counts(normalize=True) \
-    .mul(100).unstack().fillna(0)
+vote_counts_by_marital = df_filtered.groupby('marital_status')['party'].value_counts(normalize=False) \
+    .mul(1).unstack().fillna(0)
 vote_counts_by_marital = vote_counts_by_marital.sort_values(by='Green', ascending=False)
 
 # Create a figure with multiple subplots
@@ -72,7 +72,7 @@ axs[1, 0].tick_params(axis='x', rotation=45)
 vote_counts_by_marital[['Green', 'Red']].plot(kind='bar', ax=axs[1, 1], color=['green', 'red'])
 axs[1, 1].set_title('Voting Trends by Marital Status (Green vs Red)')
 axs[1, 1].set_xlabel('Marital Status')
-axs[1, 1].set_ylabel('Percentage of Voters')
+axs[1, 1].set_ylabel('Number of Voters')
 axs[1, 1].legend(title='Party')
 axs[1, 1].tick_params(axis='x', rotation=45)
 

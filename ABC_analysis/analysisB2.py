@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-PATH = r"even_more_private_dataD.xlsx"
+PATH = r"data/new/even_more_private_dataD.xlsx"
 
 # Load the Excel sheet into a DataFrame
 df = pd.read_excel(PATH, sheet_name='Sheet1')
@@ -32,8 +32,8 @@ vote_counts_by_education = df_filtered.groupby('education')['party'].value_count
 vote_counts_by_education = vote_counts_by_education.sort_values(by='Green', ascending=False)
 
 # Citizenship
-vote_counts_by_citizenship = df_filtered.groupby('citizenship')['party'].value_counts(normalize=False) \
-    .unstack().fillna(0)
+vote_counts_by_citizenship = df_filtered.groupby('citizenship')['party'].value_counts(normalize=True) \
+    .mul(100).unstack().fillna(0)
 vote_counts_by_citizenship = vote_counts_by_citizenship.sort_values(by='Green', ascending=False)
 
 # Marital status
@@ -64,7 +64,7 @@ axs[0, 1].tick_params(axis='x', rotation=45)
 vote_counts_by_citizenship[['Green', 'Red']].plot(kind='bar', ax=axs[1, 0], color=['green', 'red'])
 axs[1, 0].set_title('Voting Trends by Citizenship (Green vs Red)')
 axs[1, 0].set_xlabel('Citizenship')
-axs[1, 0].set_ylabel('Number of Voters')
+axs[1, 0].set_ylabel('Percentage of Voters')
 axs[1, 0].legend(title='Party')
 axs[1, 0].tick_params(axis='x', rotation=45)
 
