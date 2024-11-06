@@ -5,7 +5,7 @@ PATH = r"data/new/even_more_private_dataD.xlsx"
 df = pd.read_excel(PATH, sheet_name='Sheet1')
 
 # List of quasi-identifiers to check for k-anonymity
-quasi_identifiers = ['sex', 'dob', 'education', 'marital_status', 'party']
+quasi_identifiers = ['sex', 'dob', 'education', 'marital_status', 'zip']
 
 # Group by quasi-identifiers and count occurrences
 grouped = df.groupby(quasi_identifiers).size().reset_index(name='count')
