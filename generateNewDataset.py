@@ -3,7 +3,7 @@ from pgmpy.models import BayesianNetwork
 from pgmpy.sampling import BayesianModelSampling
 import pandas as pd
 
-SIZE = 300
+SIZE = 200
 
 # Reload the dataset
 file_path = 'data/new/even_more_private_dataD.xlsx'

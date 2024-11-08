@@ -1,87 +1,201 @@
 sex,dob,education,marital_status,zip,count
-Female,1949,Non-university,Ever married,2300,1
-Female,1949,Non-university,Never married,2200,1
-Female,1949,Undergraduate,Ever married,2300,1
-Female,1949,Undergraduate,Ever married,2400,1
-Female,1949,Vocational bachelors educations,Ever married,2100,1
-Female,1949,Vocational bachelors educations,Ever married,2300,1
-Female,1949,Vocational bachelors educations,Ever married,2400,1
-Female,1950,Vocational bachelors educations,Ever married,2100,1
-Female,1950,Vocational bachelors educations,Ever married,2200,1
-Female,1960,Graduate and Post-graduate,Ever married,2400,1
-Female,1960,Non-university,Never married,2300,1
-Female,1960,Non-university,Never married,2400,1
-Female,1960,Undergraduate,Ever married,2300,1
-Female,1960,Undergraduate,Ever married,2400,1
-Female,1960,Undergraduate,Never married,2400,1
-Female,1960,Vocational bachelors educations,Ever married,2200,1
-Female,1970,Graduate and Post-graduate,Ever married,2200,1
-Female,1970,Non-university,Never married,2400,1
-Female,1970,Undergraduate,Ever married,2100,1
-Female,1970,Undergraduate,Ever married,2300,1
-Female,1970,Undergraduate,Ever married,2400,1
-Female,1970,Vocational bachelors educations,Ever married,2100,1
-Female,1970,Vocational bachelors educations,Never married,2400,1
-Female,1990,Graduate and Post-graduate,Ever married,2300,1
-Female,1990,Graduate and Post-graduate,Never married,2400,1
-Female,1990,Non-university,Never married,2100,1
-Female,1990,Undergraduate,Ever married,2100,1
-Female,1990,Undergraduate,Never married,2300,1
-Female,1990,Vocational bachelors educations,Ever married,2200,1
-Female,1990,Vocational bachelors educations,Never married,2400,1
-Female,2000,Graduate and Post-graduate,Never married,2100,1
-Female,2000,Graduate and Post-graduate,Never married,2300,1
-Female,2000,Non-university,Never married,2100,1
-Female,2000,Undergraduate,Never married,2200,1
-Female,2000,Vocational bachelors educations,Never married,2200,1
-Male,1949,Graduate and Post-graduate,Ever married,2400,1
-Male,1949,Non-university,Never married,2400,1
-Male,1949,Undergraduate,Ever married,2200,1
-Male,1950,Graduate and Post-graduate,Ever married,2300,1
-Male,1950,Non-university,Ever married,2100,1
-Male,1950,Non-university,Ever married,2300,1
-Male,1950,Undergraduate,Ever married,2300,1
-Male,1950,Vocational bachelors educations,Ever married,2300,1
-Male,1960,Graduate and Post-graduate,Ever married,2100,1
-Male,1960,Graduate and Post-graduate,Ever married,2200,1
-Male,1960,Graduate and Post-graduate,Ever married,2300,1
-Male,1960,Non-university,Ever married,2100,1
-Male,1960,Non-university,Ever married,2200,1
-Male,1960,Non-university,Ever married,2300,1
-Male,1960,Non-university,Never married,2200,1
-Male,1960,Undergraduate,Ever married,2100,1
-Male,1960,Vocational bachelors educations,Ever married,2100,1
-Male,1960,Vocational bachelors educations,Ever married,2300,1
-Male,1970,Graduate and Post-graduate,Ever married,2300,1
-Male,1970,Graduate and Post-graduate,Never married,2100,1
-Male,1970,Graduate and Post-graduate,Never married,2400,1
-Male,1970,Non-university,Never married,2100,1
-Male,1970,Non-university,Never married,2300,1
-Male,1970,Non-university,Never married,2400,1
-Male,1970,Undergraduate,Ever married,2100,1
-Male,1970,Undergraduate,Ever married,2400,1
-Male,1970,Vocational bachelors educations,Ever married,2200,1
-Male,1970,Vocational bachelors educations,Never married,2100,1
-Male,1970,Vocational bachelors educations,Never married,2200,1
-Male,1970,Vocational bachelors educations,Never married,2300,1
-Male,1980,Graduate and Post-graduate,Ever married,2400,1
-Male,1980,Non-university,Ever married,2200,1
-Male,1980,Non-university,Never married,2100,1
-Male,1980,Undergraduate,Never married,2100,1
-Male,1980,Vocational bachelors educations,Ever married,2100,1
-Male,1980,Vocational bachelors educations,Ever married,2300,1
-Male,1980,Vocational bachelors educations,Never married,2300,1
-Male,1990,Graduate and Post-graduate,Never married,2400,1
-Male,1990,Non-university,Ever married,2100,1
-Male,1990,Non-university,Ever married,2200,1
-Male,1990,Non-university,Ever married,2400,1
-Male,1990,Non-university,Never married,2300,1
-Male,1990,Undergraduate,Never married,2400,1
-Male,1990,Vocational bachelors educations,Ever married,2300,1
-Male,1990,Vocational bachelors educations,Ever married,2400,1
-Male,1990,Vocational bachelors educations,Never married,2200,1
-Male,2000,Graduate and Post-graduate,Ever married,2400,1
-Male,2000,Non-university,Ever married,2300,1
-Male,2000,Non-university,Never married,2200,1
-Male,2000,Non-university,Never married,2300,1
-Male,2000,Undergraduate,Never married,2200,1
+Female,1931-01-15,Vocational Education and Training (VET),Widowed,2300,1
+Female,1937-02-19,Vocational Education and Training (VET),Divorced,2300,1
+Female,1937-11-03,Vocational Education and Training (VET),Widowed,2200,1
+Female,1937-11-27,Upper secondary education,Married/separated,2400,1
+Female,1946-02-20,Vocational Education and Training (VET),Widowed,2400,1
+Female,1948-08-18,Short cycle higher education,Married/separated,2400,1
+Female,1948-08-21,Masters programmes,Married/separated,2200,1
+Female,1948-11-12,Vocational bachelors educations,Widowed,2100,1
+Female,1949-03-01,Masters programmes,Married/separated,2200,1
+Female,1949-05-14,Vocational Education and Training (VET),Divorced,2400,1
+Female,1949-09-29,Primary education,Married/separated,2400,1
+Female,1954-04-07,Vocational Education and Training (VET),Divorced,2300,1
+Female,1954-10-18,Masters programmes,Married/separated,2300,1
+Female,1955-06-06,Vocational Education and Training (VET),Married/separated,2400,1
+Female,1956-09-07,Vocational bachelors educations,Married/separated,2400,1
+Female,1958-07-20,Primary education,Married/separated,2200,1
+Female,1958-08-30,Primary education,Widowed,2300,1
+Female,1958-11-14,Vocational Education and Training (VET),Married/separated,2400,1
+Female,1959-06-08,Primary education,Married/separated,2300,1
+Female,1959-10-07,Vocational bachelors educations,Married/separated,2200,1
+Female,1959-10-20,Vocational Education and Training (VET),Married/separated,2100,1
+Female,1959-11-02,Primary education,Married/separated,2400,1
+Female,1960-02-06,Vocational Education and Training (VET),Married/separated,2400,1
+Female,1961-11-02,Vocational bachelors educations,Married/separated,2400,1
+Female,1962-01-21,Vocational bachelors educations,Married/separated,2100,1
+Female,1962-12-13,Primary education,Married/separated,2300,1
+Female,1962-12-28,Vocational Education and Training (VET),Married/separated,2300,1
+Female,1963-07-12,Upper secondary education,Never married,2400,1
+Female,1963-11-05,Bachelors programmes,Married/separated,2400,1
+Female,1963-12-17,Primary education,Married/separated,2200,1
+Female,1965-08-20,Masters programmes,Married/separated,2400,1
+Female,1966-08-29,Vocational bachelors educations,Married/separated,2300,1
+Female,1966-11-05,Vocational bachelors educations,Married/separated,2200,1
+Female,1967-04-23,Masters programmes,Married/separated,2400,1
+Female,1967-04-23,Primary education,Never married,2300,1
+Female,1967-06-23,Vocational Education and Training (VET),Married/separated,2400,1
+Female,1968-06-23,Vocational Education and Training (VET),Married/separated,2400,1
+Female,1968-12-13,Vocational bachelors educations,Divorced,2300,1
+Female,1969-07-27,Vocational Education and Training (VET),Married/separated,2300,1
+Female,1969-12-18,Primary education,Divorced,2100,1
+Female,1970-01-21,Masters programmes,Never married,2400,1
+Female,1970-04-11,Upper secondary education,Divorced,2300,1
+Female,1970-09-10,Primary education,Never married,2200,1
+Female,1970-12-17,Short cycle higher education,Never married,2300,1
+Female,1972-03-16,Primary education,Divorced,2400,1
+Female,1972-04-07,Primary education,Married/separated,2200,1
+Female,1972-07-22,Bachelors programmes,Divorced,2400,1
+Female,1972-08-24,Masters programmes,Married/separated,2200,1
+Female,1972-10-20,Vocational Education and Training (VET),Married/separated,2300,1
+Female,1973-02-24,Vocational Education and Training (VET),Divorced,2100,1
+Female,1973-03-23,Vocational bachelors educations,Married/separated,2200,1
+Female,1973-03-25,Vocational bachelors educations,Married/separated,2300,1
+Female,1973-04-21,Primary education,Never married,2300,1
+Female,1973-09-27,Primary education,Never married,2400,1
+Female,1974-10-19,Vocational Education and Training (VET),Married/separated,2200,1
+Female,1975-03-22,Short cycle higher education,Divorced,2300,1
+Female,1975-05-21,Vocational Education and Training (VET),Married/separated,2200,1
+Female,1975-08-28,Vocational bachelors educations,Married/separated,2400,1
+Female,1976-01-18,Masters programmes,Never married,2400,1
+Female,1976-10-01,Vocational bachelors educations,Married/separated,2400,1
+Female,1976-10-19,Vocational Education and Training (VET),Divorced,2300,1
+Female,1977-02-16,Vocational bachelors educations,Married/separated,2300,1
+Female,1978-01-19,Vocational bachelors educations,Married/separated,2200,1
+Female,1978-05-14,Vocational Education and Training (VET),Married/separated,2400,1
+Female,1978-07-26,Primary education,Divorced,2300,1
+Female,1979-03-31,Masters programmes,Married/separated,2200,1
+Female,1979-04-10,Vocational Education and Training (VET),Married/separated,2200,1
+Female,1979-04-27,Primary education,Never married,2300,1
+Female,1979-10-11,Primary education,Married/separated,2400,1
+Female,1981-02-12,Upper secondary education,Married/separated,2400,1
+Female,1981-09-04,Vocational bachelors educations,Divorced,2400,1
+Female,1982-08-05,Vocational bachelors educations,Married/separated,2100,1
+Female,1982-08-16,Vocational bachelors educations,Married/separated,2300,1
+Female,1982-09-23,PhD programmes,Married/separated,2100,1
+Female,1983-02-26,Short cycle higher education,Divorced,2400,1
+Female,1983-06-08,Vocational bachelors educations,Married/separated,2300,1
+Female,1983-07-28,Vocational Education and Training (VET),Married/separated,2100,1
+Female,1983-11-11,Vocational Education and Training (VET),Never married,2300,1
+Female,1984-08-08,Primary education,Never married,2200,1
+Female,1984-09-20,Vocational Education and Training (VET),Married/separated,2400,1
+Female,1985-04-07,Vocational bachelors educations,Never married,2400,1
+Female,1985-06-29,Vocational Education and Training (VET),Divorced,2200,1
+Female,1985-07-25,Masters programmes,Married/separated,2100,1
+Female,1986-04-25,Masters programmes,Divorced,2300,1
+Female,1986-09-16,Primary education,Never married,2100,1
+Female,1986-10-11,Upper secondary education,Married/separated,2400,1
+Female,1987-06-28,Masters programmes,Never married,2400,1
+Female,1987-07-25,Bachelors programmes,Never married,2300,1
+Female,1988-07-30,Masters programmes,Never married,2300,1
+Female,1988-08-26,Vocational Education and Training (VET),Never married,2400,1
+Female,1991-03-20,Vocational bachelors educations,Never married,2200,1
+Female,1991-05-28,Primary education,Married/separated,2300,1
+Female,1992-02-16,Vocational bachelors educations,Never married,2400,1
+Female,1992-05-21,Masters programmes,Never married,2400,1
+Female,1994-10-28,Upper secondary education,Never married,2300,1
+Female,1995-05-13,Vocational Education and Training (VET),Never married,2200,1
+Female,1995-10-08,Not stated,Married/separated,2200,1
+Female,1996-01-10,Upper secondary education,Never married,2400,1
+Female,1996-02-05,Vocational bachelors educations,Never married,2200,1
+Female,1996-10-09,Vocational Education and Training (VET),Never married,2300,1
+Female,1997-01-19,Upper secondary education,Never married,2100,1
+Female,1997-01-30,Vocational Education and Training (VET),Never married,2300,1
+Female,1997-09-23,Vocational bachelors educations,Never married,2100,1
+Female,1998-09-05,Upper secondary education,Never married,2200,1
+Female,1998-09-20,Bachelors programmes,Married/separated,2300,1
+Female,1999-03-06,Upper secondary education,Never married,2100,1
+Female,2000-05-16,Vocational Education and Training (VET),Never married,2200,1
+Female,2002-04-30,Upper secondary education,Married/separated,2100,1
+Female,2002-07-01,Upper secondary education,Never married,2400,1
+Female,2002-11-03,Upper secondary education,Never married,2100,1
+Female,2003-05-13,Short cycle higher education,Never married,2400,1
+Female,2003-06-14,Upper secondary education,Never married,2100,1
+Male,1930-05-02,Short cycle higher education,Divorced,2300,1
+Male,1936-05-12,Primary education,Divorced,2400,1
+Male,1936-08-13,Primary education,Widowed,2400,1
+Male,1938-12-08,Vocational Education and Training (VET),Never married,2200,1
+Male,1939-11-05,Vocational bachelors educations,Widowed,2300,1
+Male,1945-03-28,Vocational Education and Training (VET),Widowed,2400,1
+Male,1945-06-30,Primary education,Divorced,2400,1
+Male,1948-06-19,Vocational bachelors educations,Married/separated,2400,1
+Male,1948-10-28,Vocational Education and Training (VET),Married/separated,2300,1
+Male,1948-10-28,Vocational bachelors educations,Married/separated,2400,1
+Male,1949-01-16,Vocational Education and Training (VET),Never married,2400,1
+Male,1953-06-17,Upper secondary education,Widowed,2100,1
+Male,1954-09-24,Vocational Education and Training (VET),Married/separated,2300,1
+Male,1955-07-03,Upper secondary education,Married/separated,2300,1
+Male,1956-03-25,Vocational bachelors educations,Divorced,2400,1
+Male,1956-05-14,Vocational Education and Training (VET),Married/separated,2200,1
+Male,1957-03-04,Primary education,Widowed,2400,1
+Male,1958-06-01,Vocational bachelors educations,Married/separated,2300,1
+Male,1959-10-09,Primary education,Married/separated,2300,1
+Male,1959-11-29,Masters programmes,Married/separated,2200,1
+Male,1959-12-08,PhD programmes,Divorced,2400,1
+Male,1959-12-29,Vocational bachelors educations,Married/separated,2400,1
+Male,1960-01-29,Primary education,Divorced,2200,1
+Male,1961-07-03,Vocational Education and Training (VET),Never married,2200,1
+Male,1964-04-04,Primary education,Widowed,2300,1
+Male,1964-09-14,Vocational Education and Training (VET),Married/separated,2300,1
+Male,1964-11-27,Primary education,Married/separated,2200,1
+Male,1965-09-28,Primary education,Married/separated,2400,1
+Male,1965-10-10,Primary education,Divorced,2400,1
+Male,1965-11-09,Vocational Education and Training (VET),Married/separated,2200,1
+Male,1966-05-31,Primary education,Divorced,2300,1
+Male,1966-06-11,Vocational bachelors educations,Divorced,2400,1
+Male,1966-07-17,Vocational Education and Training (VET),Married/separated,2400,1
+Male,1967-11-30,Vocational bachelors educations,Married/separated,2200,1
+Male,1968-06-12,Primary education,Married/separated,2400,1
+Male,1968-07-08,Vocational Education and Training (VET),Married/separated,2400,1
+Male,1968-08-03,Vocational Education and Training (VET),Married/separated,2200,1
+Male,1968-10-08,Vocational bachelors educations,Married/separated,2400,1
+Male,1969-01-05,Vocational bachelors educations,Divorced,2400,1
+Male,1969-11-25,Vocational Education and Training (VET),Divorced,2200,1
+Male,1970-09-22,Short cycle higher education,Married/separated,2200,1
+Male,1970-11-27,Masters programmes,Married/separated,2300,1
+Male,1971-01-22,Bachelors programmes,Never married,2200,1
+Male,1971-01-23,Vocational Education and Training (VET),Married/separated,2400,1
+Male,1971-07-01,Primary education,Married/separated,2200,1
+Male,1971-12-11,Primary education,Married/separated,2300,1
+Male,1972-04-12,Vocational Education and Training (VET),Never married,2200,1
+Male,1972-05-15,Primary education,Divorced,2200,1
+Male,1972-07-03,Primary education,Never married,2100,1
+Male,1973-04-04,Masters programmes,Married/separated,2400,1
+Male,1973-05-05,Vocational bachelors educations,Never married,2200,1
+Male,1973-05-29,Vocational Education and Training (VET),Never married,2200,1
+Male,1975-01-28,Primary education,Divorced,2300,1
+Male,1975-09-06,Vocational Education and Training (VET),Never married,2400,1
+Male,1977-01-03,PhD programmes,Married/separated,2400,1
+Male,1977-03-30,Masters programmes,Married/separated,2400,1
+Male,1979-12-14,Vocational Education and Training (VET),Married/separated,2300,1
+Male,1982-01-12,Masters programmes,Married/separated,2300,1
+Male,1982-08-10,Vocational bachelors educations,Never married,2300,1
+Male,1982-09-06,PhD programmes,Married/separated,2200,1
+Male,1983-03-14,Vocational Education and Training (VET),Married/separated,2200,1
+Male,1983-03-15,Masters programmes,Never married,2400,1
+Male,1983-03-28,PhD programmes,Never married,2100,1
+Male,1983-08-06,Vocational bachelors educations,Never married,2200,1
+Male,1984-04-27,Vocational bachelors educations,Divorced,2400,1
+Male,1985-06-05,Vocational Education and Training (VET),Never married,2200,1
+Male,1985-07-31,Vocational bachelors educations,Married/separated,2100,1
+Male,1986-11-19,Vocational bachelors educations,Married/separated,2300,1
+Male,1988-04-14,Vocational Education and Training (VET),Never married,2200,1
+Male,1989-07-24,Vocational bachelors educations,Married/separated,2300,1
+Male,1990-04-17,Masters programmes,Married/separated,2200,1
+Male,1990-06-19,Vocational bachelors educations,Never married,2100,1
+Male,1991-10-16,Vocational bachelors educations,Married/separated,2200,1
+Male,1993-02-28,Not stated,Never married,2100,1
+Male,1993-03-30,Bachelors programmes,Married/separated,2200,1
+Male,1993-04-01,Vocational bachelors educations,Married/separated,2400,1
+Male,1994-09-20,Vocational bachelors educations,Married/separated,2400,1
+Male,1995-02-27,Vocational Education and Training (VET),Married/separated,2400,1
+Male,1995-08-25,Upper secondary education,Never married,2400,1
+Male,1996-03-21,Bachelors programmes,Never married,2200,1
+Male,2000-01-25,Upper secondary education,Never married,2300,1
+Male,2000-10-16,Upper secondary education,Never married,2300,1
+Male,2001-02-13,Vocational Education and Training (VET),Never married,2100,1
+Male,2002-11-28,Upper secondary education,Never married,2300,1
+Male,2002-12-02,Primary education,Never married,2100,1
+Male,2003-03-22,Not stated,Never married,2100,1
+Male,2003-10-01,Primary education,Never married,2400,1
+Male,2004-07-25,Primary education,Never married,2100,1

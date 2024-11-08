@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-PATH = r"data/new/even_more_private_dataD.xlsx"
+PATH = r"data/new/synthetic_dataD.xlsx"
 
 # Load the Excel sheet into a DataFrame
 df = pd.read_excel(PATH, sheet_name='Sheet1')

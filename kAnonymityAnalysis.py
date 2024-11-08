@@ -1,9 +1,9 @@
 import pandas as pd
 
-PATH = r"data/new/synthetic_dataD.xlsx"
+PATH = r"data/old/private_dataD.xlsx"
 K = 2
 
-df = pd.read_excel(PATH, sheet_name='Sheet1')
+df = pd.read_excel(PATH, sheet_name='Sheet 1')
 
 # List of quasi-identifiers to check for k-anonymity
 quasi_identifiers = ['sex', 'dob', 'education', 'marital_status', 'zip']
