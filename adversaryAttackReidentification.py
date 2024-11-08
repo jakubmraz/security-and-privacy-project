@@ -2,7 +2,7 @@ import pandas as pd
 from itertools import combinations
 
 # Load the datasets
-dataset1 = pd.read_excel('data/new/differentially_private_dataD.xlsx')
+dataset1 = pd.read_excel('data/new/synthetic_dataD.xlsx')
 dataset2 = pd.read_excel("data/old/public_data_registerD.xlsx")
 
 for dataset in [dataset1, dataset2]:
@@ -28,5 +28,5 @@ grouped = dataset1.groupby(common_attributes).size()
 k_anonymity = grouped.min()
 
 # Display the results
-print(f'Re-identification rate: {reidentification_rate:.2f}%')
+print(f'Re-identification rate: {reidentification_rate:.2f}%', matches)
 print(f'k-anonymity: {k_anonymity}')
