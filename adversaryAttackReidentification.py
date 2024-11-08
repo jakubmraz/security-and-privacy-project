@@ -2,7 +2,7 @@ import pandas as pd
 from itertools import combinations
 
 # Load the datasets
-dataset1 = pd.read_excel('data/new/even_more_private_dataD.xlsx')
+dataset1 = pd.read_excel('data/new/synthetic_dataD.xlsx')
 dataset2 = pd.read_excel("data/old/public_data_registerD.xlsx")
 
 for dataset in [dataset1, dataset2]:
