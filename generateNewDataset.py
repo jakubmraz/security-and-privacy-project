@@ -3,6 +3,8 @@ from pgmpy.models import BayesianNetwork
 from pgmpy.sampling import BayesianModelSampling
 import pandas as pd
 
+SIZE = 300
+
 # Reload the dataset
 file_path = 'data/new/even_more_private_dataD.xlsx'
 data = pd.read_excel(file_path)
@@ -28,7 +30,7 @@ bayesian_net.fit(data)
 
 # Step 4: Generate synthetic data
 sampler = BayesianModelSampling(bayesian_net)
-synthetic_data = sampler.forward_sample(size=200)
+synthetic_data = sampler.forward_sample(size=SIZE)
 
 # Save the synthetic data
 synthetic_file_path = 'data/new/synthetic_dataD.xlsx'

@@ -1,0 +1,87 @@
+sex,dob,education,marital_status,zip,count
+Female,1949,Non-university,Ever married,2300,1
+Female,1949,Non-university,Never married,2200,1
+Female,1949,Undergraduate,Ever married,2300,1
+Female,1949,Undergraduate,Ever married,2400,1
+Female,1949,Vocational bachelors educations,Ever married,2100,1
+Female,1949,Vocational bachelors educations,Ever married,2300,1
+Female,1949,Vocational bachelors educations,Ever married,2400,1
+Female,1950,Vocational bachelors educations,Ever married,2100,1
+Female,1950,Vocational bachelors educations,Ever married,2200,1
+Female,1960,Graduate and Post-graduate,Ever married,2400,1
+Female,1960,Non-university,Never married,2300,1
+Female,1960,Non-university,Never married,2400,1
+Female,1960,Undergraduate,Ever married,2300,1
+Female,1960,Undergraduate,Ever married,2400,1
+Female,1960,Undergraduate,Never married,2400,1
+Female,1960,Vocational bachelors educations,Ever married,2200,1
+Female,1970,Graduate and Post-graduate,Ever married,2200,1
+Female,1970,Non-university,Never married,2400,1
+Female,1970,Undergraduate,Ever married,2100,1
+Female,1970,Undergraduate,Ever married,2300,1
+Female,1970,Undergraduate,Ever married,2400,1
+Female,1970,Vocational bachelors educations,Ever married,2100,1
+Female,1970,Vocational bachelors educations,Never married,2400,1
+Female,1990,Graduate and Post-graduate,Ever married,2300,1
+Female,1990,Graduate and Post-graduate,Never married,2400,1
+Female,1990,Non-university,Never married,2100,1
+Female,1990,Undergraduate,Ever married,2100,1
+Female,1990,Undergraduate,Never married,2300,1
+Female,1990,Vocational bachelors educations,Ever married,2200,1
+Female,1990,Vocational bachelors educations,Never married,2400,1
+Female,2000,Graduate and Post-graduate,Never married,2100,1
+Female,2000,Graduate and Post-graduate,Never married,2300,1
+Female,2000,Non-university,Never married,2100,1
+Female,2000,Undergraduate,Never married,2200,1
+Female,2000,Vocational bachelors educations,Never married,2200,1
+Male,1949,Graduate and Post-graduate,Ever married,2400,1
+Male,1949,Non-university,Never married,2400,1
+Male,1949,Undergraduate,Ever married,2200,1
+Male,1950,Graduate and Post-graduate,Ever married,2300,1
+Male,1950,Non-university,Ever married,2100,1
+Male,1950,Non-university,Ever married,2300,1
+Male,1950,Undergraduate,Ever married,2300,1
+Male,1950,Vocational bachelors educations,Ever married,2300,1
+Male,1960,Graduate and Post-graduate,Ever married,2100,1
+Male,1960,Graduate and Post-graduate,Ever married,2200,1
+Male,1960,Graduate and Post-graduate,Ever married,2300,1
+Male,1960,Non-university,Ever married,2100,1
+Male,1960,Non-university,Ever married,2200,1
+Male,1960,Non-university,Ever married,2300,1
+Male,1960,Non-university,Never married,2200,1
+Male,1960,Undergraduate,Ever married,2100,1
+Male,1960,Vocational bachelors educations,Ever married,2100,1
+Male,1960,Vocational bachelors educations,Ever married,2300,1
+Male,1970,Graduate and Post-graduate,Ever married,2300,1
+Male,1970,Graduate and Post-graduate,Never married,2100,1
+Male,1970,Graduate and Post-graduate,Never married,2400,1
+Male,1970,Non-university,Never married,2100,1
+Male,1970,Non-university,Never married,2300,1
+Male,1970,Non-university,Never married,2400,1
+Male,1970,Undergraduate,Ever married,2100,1
+Male,1970,Undergraduate,Ever married,2400,1
+Male,1970,Vocational bachelors educations,Ever married,2200,1
+Male,1970,Vocational bachelors educations,Never married,2100,1
+Male,1970,Vocational bachelors educations,Never married,2200,1
+Male,1970,Vocational bachelors educations,Never married,2300,1
+Male,1980,Graduate and Post-graduate,Ever married,2400,1
+Male,1980,Non-university,Ever married,2200,1
+Male,1980,Non-university,Never married,2100,1
+Male,1980,Undergraduate,Never married,2100,1
+Male,1980,Vocational bachelors educations,Ever married,2100,1
+Male,1980,Vocational bachelors educations,Ever married,2300,1
+Male,1980,Vocational bachelors educations,Never married,2300,1
+Male,1990,Graduate and Post-graduate,Never married,2400,1
+Male,1990,Non-university,Ever married,2100,1
+Male,1990,Non-university,Ever married,2200,1
+Male,1990,Non-university,Ever married,2400,1
+Male,1990,Non-university,Never married,2300,1
+Male,1990,Undergraduate,Never married,2400,1
+Male,1990,Vocational bachelors educations,Ever married,2300,1
+Male,1990,Vocational bachelors educations,Ever married,2400,1
+Male,1990,Vocational bachelors educations,Never married,2200,1
+Male,2000,Graduate and Post-graduate,Ever married,2400,1
+Male,2000,Non-university,Ever married,2300,1
+Male,2000,Non-university,Never married,2200,1
+Male,2000,Non-university,Never married,2300,1
+Male,2000,Undergraduate,Never married,2200,1
