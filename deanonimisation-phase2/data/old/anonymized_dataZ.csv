@@ -1,0 +1,199 @@
+sex,evote,education,citizenship,marital_status,party,age_range
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Male,1,High school or lower,Other,Married/separated,Green,20-40
+Female,0,High school or lower,Denmark,Not married,Red,60+
+Male,0,Higher education,Denmark,Not married,Green,60+
+Male,0,High school or lower,Denmark,Married/separated,Red,60+
+Female,1,High school or lower,Denmark,Married/separated,Invalid vote,40-60
+Male,0,Not stated,Denmark,Married/separated,Green,40-60
+Male,0,Higher education,Denmark,Not married,Green,40-60
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,60+
+Female,0,High school or lower,Denmark,Married/separated,Red,60+
+Male,1,Higher education,Denmark,Not married,Green,20-40
+Male,1,Higher education,Denmark,Not married,Green,20-40
+Male,1,High school or lower,Denmark,Married/separated,Green,20-40
+Male,0,High school or lower,Denmark,Married/separated,Red,60+
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Other,Not married,Green,40-60
+Male,1,Higher education,Denmark,Married/separated,Red,40-60
+Male,1,Higher education,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Green,60+
+Female,0,High school or lower,Denmark,Not married,Red,60+
+Female,0,High school or lower,Denmark,Not married,Green,60+
+Male,1,Higher education,Other,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Red,40-60
+Female,0,High school or lower,Denmark,Not married,Green,40-60
+Male,0,Higher education,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Married/separated,Green,20-40
+Male,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Not married,Green,60+
+Female,0,High school or lower,Denmark,Married/separated,Red,60+
+Male,0,Higher education,Denmark,Married/separated,Red,60+
+Female,0,Higher education,Denmark,Married/separated,Green,40-60
+Male,0,High school or lower,Denmark,Married/separated,Invalid vote,20-40
+Female,0,Higher education,Denmark,Not married,Red,60+
+Female,1,High school or lower,Other,Not married,Green,20-40
+Female,0,High school or lower,Other,Not married,Red,60+
+Male,0,High school or lower,Denmark,Married/separated,Red,40-60
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Female,0,Higher education,Denmark,Married/separated,Green,60+
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Red,60+
+Male,0,Higher education,Other,Married/separated,Green,20-40
+Male,1,Higher education,Denmark,Married/separated,Green,40-60
+Male,0,Higher education,Denmark,Not married,Red,60+
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Not married,Red,20-40
+Male,1,High school or lower,Denmark,Married/separated,Green,40-60
+Male,1,High school or lower,Denmark,Married/separated,Green,20-40
+Female,1,Higher education,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,40-60
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,Higher education,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,1,High school or lower,Denmark,Married/separated,Green,40-60
+Female,1,High school or lower,Denmark,Married/separated,Green,40-60
+Male,1,Higher education,Denmark,Not married,Green,40-60
+Male,1,Higher education,Denmark,Not married,Red,60+
+Female,0,High school or lower,Denmark,Married/separated,Green,60+
+Female,0,Higher education,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Married/separated,Red,60+
+Male,1,High school or lower,Denmark,Married/separated,Green,20-40
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Female,1,High school or lower,Denmark,Married/separated,Green,20-40
+Female,0,Higher education,Denmark,Married/separated,Green,60+
+Female,0,High school or lower,Denmark,Married/separated,Red,40-60
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,60+
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Male,1,Higher education,Denmark,Married/separated,Red,40-60
+Male,1,High school or lower,Denmark,Married/separated,Green,60+
+Female,1,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Married/separated,Green,40-60
+Male,0,High school or lower,Denmark,Not married,Red,40-60
+Male,0,High school or lower,Denmark,Not married,Green,40-60
+Male,0,High school or lower,Denmark,Not married,Red,60+
+Male,1,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,Higher education,Denmark,Married/separated,Green,60+
+Female,0,High school or lower,Denmark,Not married,Red,60+
+Male,0,Higher education,Denmark,Married/separated,Red,60+
+Male,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,Higher education,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Not married,Red,60+
+Male,0,High school or lower,Denmark,Not married,Red,60+
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,Higher education,Denmark,Married/separated,Green,40-60
+Male,0,High school or lower,Denmark,Not married,Green,60+
+Female,0,High school or lower,Denmark,Not married,Green,60+
+Female,0,High school or lower,Other,Not married,Red,60+
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,1,Higher education,Denmark,Married/separated,Green,40-60
+Female,0,Higher education,Denmark,Not married,Red,20-40
+Male,0,Higher education,Denmark,Married/separated,Red,60+
+Female,0,Higher education,Denmark,Married/separated,Red,40-60
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Female,0,Higher education,Other,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Married/separated,Green,60+
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Other,Not married,Red,20-40
+Female,0,Higher education,Other,Married/separated,Green,40-60
+Female,1,Higher education,Denmark,Married/separated,Green,20-40
+Male,0,Higher education,Denmark,Married/separated,Red,60+
+Male,1,High school or lower,Other,Not married,Green,20-40
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Green,60+
+Female,1,High school or lower,Denmark,Not married,Green,20-40
+Female,1,Higher education,Denmark,Married/separated,Green,20-40
+Male,1,High school or lower,Denmark,Married/separated,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,40-60
+Female,1,High school or lower,Denmark,Not married,Green,20-40
+Male,1,Not stated,Denmark,Not married,Green,40-60
+Female,0,Higher education,Denmark,Married/separated,Green,60+
+Male,0,Higher education,Denmark,Not married,Red,60+
+Female,0,Higher education,Denmark,Married/separated,Red,40-60
+Female,0,Higher education,Other,Married/separated,Red,60+
+Female,1,Higher education,Denmark,Married/separated,Red,40-60
+Male,0,High school or lower,Denmark,Married/separated,Green,40-60
+Male,0,High school or lower,Other,Not married,Green,60+
+Female,1,Higher education,Denmark,Not married,Invalid vote,20-40
+Female,0,High school or lower,Other,Not married,Red,60+
+Female,0,High school or lower,Other,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,1,High school or lower,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Not married,Red,60+
+Male,1,Higher education,Denmark,Not married,Green,60+
+Male,1,Higher education,Denmark,Married/separated,Green,40-60
+Female,1,Higher education,Denmark,Not married,Red,40-60
+Male,0,Higher education,Denmark,Not married,Green,60+
+Male,1,High school or lower,Other,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Red,40-60
+Female,1,High school or lower,Denmark,Married/separated,Red,20-40
+Male,0,Higher education,Denmark,Married/separated,Red,40-60
+Female,0,High school or lower,Denmark,Married/separated,Red,60+
+Male,0,High school or lower,Denmark,Not married,Green,40-60
+Female,0,Higher education,Denmark,Not married,Red,20-40
+Female,1,High school or lower,Denmark,Married/separated,Green,40-60
+Male,1,Higher education,Denmark,Not married,Green,20-40
+Male,0,Higher education,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Male,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,Higher education,Denmark,Married/separated,Green,60+
+Male,1,High school or lower,Denmark,Not married,Green,60+
+Female,0,Higher education,Denmark,Not married,Red,20-40
+Female,0,High school or lower,Denmark,Not married,Green,60+
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Female,1,High school or lower,Other,Married/separated,Green,40-60
+Male,1,High school or lower,Denmark,Not married,Green,40-60
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,1,Higher education,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Red,60+
+Male,0,High school or lower,Denmark,Married/separated,Invalid vote,40-60
+Female,0,High school or lower,Other,Not married,Green,40-60
+Female,0,High school or lower,Denmark,Not married,Red,40-60
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Female,1,Higher education,Denmark,Not married,Red,20-40
+Male,1,High school or lower,Denmark,Not married,Green,20-40
+Male,1,Higher education,Denmark,Married/separated,Invalid vote,40-60
+Female,0,Higher education,Denmark,Not married,Green,40-60
+Female,0,High school or lower,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,1,High school or lower,Denmark,Married/separated,Green,60+
+Male,0,High school or lower,Other,Married/separated,Green,40-60
+Male,1,Higher education,Denmark,Not married,Green,40-60
+Female,0,Higher education,Denmark,Married/separated,Red,40-60
+Male,1,Higher education,Denmark,Married/separated,Red,40-60
+Male,1,Higher education,Denmark,Not married,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Male,1,Higher education,Other,Not married,Green,20-40
+Female,0,High school or lower,Other,Not married,Green,40-60
+Female,1,Higher education,Denmark,Married/separated,Green,20-40
+Male,0,High school or lower,Denmark,Not married,Green,60+
+Female,1,Higher education,Denmark,Not married,Red,40-60
+Male,0,High school or lower,Denmark,Not married,Green,20-40
+Female,0,Higher education,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Not married,Red,60+
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Denmark,Married/separated,Red,60+
+Female,1,High school or lower,Denmark,Married/separated,Green,40-60
+Female,1,Higher education,Denmark,Not married,Green,20-40
+Female,0,High school or lower,Denmark,Married/separated,Green,40-60
+Female,0,High school or lower,Other,Married/separated,Green,60+
+Male,0,High school or lower,Denmark,Married/separated,Green,60+
+Male,0,Higher education,Denmark,Married/separated,Green,40-60
+Male,0,Higher education,Other,Not married,Green,40-60
