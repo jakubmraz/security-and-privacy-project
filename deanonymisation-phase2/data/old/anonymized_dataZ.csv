@@ -1,4 +1,4 @@
-sex,evote,education,citizenship,marital_status,party,age_range
+sex,evote,education,citizenship,marital_status,party,age_group
 Female,0,High school or lower,Denmark,Married/separated,Green,40-60
 Male,1,High school or lower,Other,Married/separated,Green,20-40
 Female,0,High school or lower,Denmark,Not married,Red,60+
