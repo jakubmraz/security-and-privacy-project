@@ -45,7 +45,7 @@ for index, public_row in public_data.iterrows():  # Iterate over each row in the
                 matches.append(match)  # Add the match dictionary to the matches list
 
 # Display the matches with inferred vote preferences
-    print(f"Public Index: {match['public_index']}, Anonymized Indices: {match['anon_indices']}")
+    print(f"Public Index: {match['public_index']}, Anonymized Indices: {match['anon_index']}")
     print(f"Public Index: {match['public_index']}, Anonymized Indices: {match['anon_index']}")
     print(f"Public Data: {match['public_data']}")
     print(f"Anonymized Data: {match['anon_records']}")
